@@ -17,15 +17,16 @@
 Макет приложения разработан в  [Figma](https://www.figma.com/design/iWVj1rWD7mYdOHQQpWiMNk/Untitled?node-id=0-1&node-type=canvas&t=D3CPzlGWM10cFbZY-0)
 
 #### Вход и регистрация:
-![Login](https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192217.png)![Registration](https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192253.png)
+![Login](https://github.com/StoneScout57/TopTire/blob/main/Вход.png)![Registration](https://github.com/StoneScout57/TopTire/blob/main/Регистрация.png)
 
 #### Главный экран приложения:
-![Login](https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192339.png)
-![Login](https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192521.png)
+![Login](https://github.com/StoneScout57/TopTire/blob/main/ГлавныйЭкранМ.png)
 
-#### Добавление задач и категорий:
-![Login](https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192358.png)
-![Login](https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192439.png)
+#### Аккаунт:
+![Login](https://github.com/StoneScout57/TopTire/blob/main/АккаунтМ.png)
 
-#### Меню приложения:
-![Profile](https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192420.png) 
+#### Каталог:
+![Profile](https://github.com/StoneScout57/TopTire/blob/main/КаталогМ.png) 
+
+#### Корзина:
+![Profile](https://github.com/StoneScout57/TopTire/blob/main/КорзинаМ.png) 
